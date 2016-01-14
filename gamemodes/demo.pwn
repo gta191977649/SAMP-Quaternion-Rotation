@@ -1,6 +1,5 @@
 #include <a_samp>
-#include <physics_extend>
-#include <streamer>
+#include <physics_extendBAK>
 new clearntimer; 
 new Balls[3];
 main() { }
